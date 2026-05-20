@@ -37,6 +37,9 @@ machine-learning-basics/
 │
 ├── decision_tree/
 │   └── decision_tree.ipynb
+│ 
+├── random_Forest/
+│   └── random_Forest.ipynb
 │
 ├── evaluation/
 │   └── model_evaluation_metrics.ipynb
